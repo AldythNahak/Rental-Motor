@@ -33,5 +33,5 @@ A web-based platform built with **Laravel PHP** for renting motorcycles in **Sal
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/motor-rent-salatiga.git
-   cd motor-rent-salatiga
+   git clone https://github.com/AldythNahak/rental-motor.git
+   cd rental-motor
