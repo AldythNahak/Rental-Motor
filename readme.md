@@ -64,6 +64,8 @@ A web-based platform built with **Laravel PHP** for renting motorcycles in **Sal
    ```
    Visit http://localhost:8000 to view the app.
 
+## 👨‍💻 Developers 
+**Aldyth M. V. Nahak**, **Irvons Anugerah**, **Fernando H. Pookey**, **Kores E. I. Bonsapia**
 
 ## 📖 Goal
 
